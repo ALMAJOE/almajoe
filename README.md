@@ -39,4 +39,4 @@ Sou uma pessoa curiosa, proativa e com grande interesse em criar soluções que 
 
 Se quiser trocar uma ideia ou colaborar em algum projeto, me chama:
 
-- 💼 [LinkedIn](https://www.linkedin.com/almajoe)
+- 💼 [LinkedIn](-)
