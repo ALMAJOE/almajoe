@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to my profile!</h1>
+<h1 align="center">🚀 Welcome to my GitHub!</h1>
 
 <p align="center">
   <em>Curious by nature, creative by vocation — I build purposeful solutions with a passion for technology.</em>
@@ -8,9 +8,7 @@
 
 ## 🧠 About Me
 
-Technology is a passion!  
-From the very first moment I got in touch with the field, my desire to learn and improve has only grown. As a mere learner, I'm always looking for new ways to enjoy and explore this fascinating world.
-
+I'm currently studying Computer Science.  
 I'm a curious, proactive person with a strong interest in creating impactful solutions. I work with several technologies and have experience in both front-end and back-end.
 
 - 🤝 Teamwork and communication are essential to me  
@@ -38,8 +36,6 @@ I'm a curious, proactive person with a strong interest in creating impactful sol
 ## 📫 Contact
 
 If you want to chat or collaborate on a project, reach out:
-
-
 
 
 - 💼 [LinkedIn](https://linkedin.com/in/almajoe)
