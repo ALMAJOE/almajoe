@@ -2,7 +2,8 @@
 
 <p align="center">
   <em>Hi, my name is <strong>José Lima</strong>, I am a Computer Science student and develope Full-Stack.</em>
-  
+</p>
+<p align="center">
   <em>Curious by nature, creative by vocation — I build purposeful solutions with a passion for technology.</em>
 </p>
 
