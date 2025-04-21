@@ -1,6 +1,7 @@
 <h1 align="center">🚀 Welcome!</h1>
 
 <p align="center">
+  Olá, meu nome é <strong>José Almiro Lima dos Santos</strong>, sou estudante de Ciência da Computação e desenvolvedor Full-Stack.
   <em>Curious by nature, creative by vocation — I build purposeful solutions with a passion for technology.</em>
 </p>
 
