@@ -9,6 +9,7 @@
 ## 🧠 About Me
 
 I'm currently studying Computer Science.  
+
 I'm a curious, proactive person with a strong interest in creating impactful solutions. I work with several technologies and have experience in both front-end and back-end.
 
 - 🤝 Teamwork and communication are essential to me  
